@@ -5,6 +5,6 @@ note generator, save a note eith a title and text, and you can save. after that 
 
 
 
-project: https://github.com/carloshernandezr/Undertaker
+project: https://github.com/carloshernandezr/Undertaker \n
 repository: https://github.com/carloshernandezr?tab=repositories
 demo: https://undertakerr.herokuapp.com/
